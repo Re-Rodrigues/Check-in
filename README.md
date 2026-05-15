@@ -1,6 +1,7 @@
 # 📱 Check-in
 
 Projeto desenvolvido para a disciplina de Desenvolvimento Móvel Avançado
+Grupo: Renan Rodrigues da Silva e Augusto Cézar de Almeida Pinto
 
 ## 🚀 Como executar
 
